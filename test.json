@@ -610,7 +610,7 @@
     {
         "id": "xiaoji",
         "name": "小鸡资源",
-        "baseUrl": "https://api.xiaojizy.live/provide/vod",
+        "baseUrl": "https://api.xjzyapi.xyz/provide/vod",
         "group": "premium",
         "enabled": true,
         "priority": 21
@@ -622,5 +622,21 @@
         "group": "premium",
         "enabled": true,
         "priority": 22
+    },
+    {
+        "id": "doudou",
+        "name": "豆豆资源网",
+        "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 23
+    },
+    {
+        "id": "heiliaozy",
+        "name": "黑料资源网",
+        "baseUrl": "https://heiliaozyapi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 24
     }
 ]
