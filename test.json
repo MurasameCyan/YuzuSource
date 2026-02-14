@@ -448,6 +448,38 @@
         "priority": 56
     },
     {
+        "id": "wsyzy",
+        "name": "无水印资源网",
+        "baseUrl": "https://api.wsyzy.net/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 57
+    },
+    {
+        "id": "maotaizy",
+        "name": "影剧资源网",
+        "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 58
+    },
+    {
+        "id": "huyazy",
+        "name": "虎牙资源",
+        "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 59
+    },
+    {
+        "id": "sdzy",
+        "name": "闪电资源网",
+        "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 60
+    },
+    {
         "id": "leba",
         "name": "乐播资源",
         "baseUrl": "https://lbapi9.com/api.php/provide/vod",
@@ -638,5 +670,13 @@
         "group": "premium",
         "enabled": true,
         "priority": 24
+    },
+    {
+        "id": "danaizi",
+        "name": "大奶子资源网",
+        "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 25
     }
 ]
