@@ -457,7 +457,7 @@
     },
     {
         "id": "maotaizy",
-        "name": "影剧资源网",
+        "name": "茅台资源站",
         "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
@@ -478,6 +478,22 @@
         "group": "normal",
         "enabled": true,
         "priority": 60
+    },
+    {
+        "id": "jinchan",
+        "name": "金蝉影视",
+        "baseUrl": "https://zy.jinchancaiji.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 61
+    },
+    {
+        "id": "dyttzy",
+        "name": "电影天堂",
+        "baseUrl": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+        "group": "normal",
+        "enabled": true,
+        "priority": 62
     },
     {
         "id": "leba",
