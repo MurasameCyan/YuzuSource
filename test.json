@@ -665,7 +665,7 @@
     },
     {
         "id": "xibao",
-        "name": "细胞资源网",
+        "name": "细胞资源",
         "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
