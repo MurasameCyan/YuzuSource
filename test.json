@@ -681,7 +681,7 @@
     },
     {
         "id": "heiliaozy",
-        "name": "黑料资源网",
+        "name": "黑料资源",
         "baseUrl": "https://heiliaozyapi.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
