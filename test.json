@@ -694,5 +694,13 @@
         "group": "premium",
         "enabled": true,
         "priority": 25
+    },
+    {
+        "id": "xzybb1",
+        "name": "幸资源",
+        "baseUrl": "https://xzybb1.com/api.php/provide/vod",
+        "group": "premium",
+        "enabled": true,
+        "priority": 26
     }
 ]
